@@ -3,10 +3,10 @@
 # Script to deploy to Azure Container Apps using Azure CLI
 
 # Variables
-RESOURCE_GROUP="new-my-fastagency-app-rg"
-CONTAINER_APP_NAME="new-my-fastagency-app"
+RESOURCE_GROUP="again-my-fastagency-app-rg"
+CONTAINER_APP_NAME="again-my-fastagency-app"
 LOCATION="westeurope"
-ACR_NAME="newmyfastagencyacr"
+ACR_NAME="againmyfastagencyacr"
 
 
 echo -e "\033[0;32mChecking if already logged into Azure\033[0m"
